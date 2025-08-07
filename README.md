@@ -43,7 +43,6 @@ By the end of this task, I was able to create a simple multi-cloud project that 
 
 # OUTPUT 
 <img width="925" height="485" alt="Image" src="https://github.com/user-attachments/assets/9671f410-9b58-4a61-ad1e-743aa1f02ce8" />
-
 <img width="666" height="196" alt="Image" src="https://github.com/user-attachments/assets/025de277-4de0-4c96-ab39-305828b8feaa" />
-
+<img width="901" height="316" alt="Image" src="https://github.com/user-attachments/assets/31409836-9396-4dd6-88f7-c909940a8861" />
 
