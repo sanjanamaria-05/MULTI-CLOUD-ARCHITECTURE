@@ -46,4 +46,4 @@ By the end of this task, I was able to create a simple multi-cloud project that 
 
 <img width="666" height="196" alt="Image" src="https://github.com/user-attachments/assets/025de277-4de0-4c96-ab39-305828b8feaa" />
 
-<img width="901" height="383" alt="Image" src="https://github.com/user-attachments/assets/113dc8a6-f452-4ab7-b69c-b94529bdb443" />
+
